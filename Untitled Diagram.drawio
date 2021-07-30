@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T13:24:51.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="vp2ZfoerlYHHSTaHMh1f" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T14:46:49.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="aA00ZnROmTvBtOVm9zBT" version="14.9.2" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1634" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="ubqGKMywYjZhbIVF9M0V-85" value="Application Layers" style="locked=1;" parent="0" />
@@ -1453,6 +1453,35 @@
             <mxPoint x="808.9949999999999" y="961" as="sourcePoint" />
             <mxPoint x="776.5" y="981.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sqyQJoZA6NtFsZMGZuDd" name="Page-2">
+    <mxGraphModel dx="1367" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="BLZYVFECelHP1KXSoa6m-0" />
+        <mxCell id="BLZYVFECelHP1KXSoa6m-1" parent="BLZYVFECelHP1KXSoa6m-0" />
+        <mxCell id="q5wealtQhhNW9CDUzMsv-0" value="PrepareCreateRequest" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="280" y="220" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-1" value="PrepareViewRequest" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="490" y="220" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-2" value="PrepareUpdateRequest" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="710" y="220" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-3" value="CreateRequest" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="280" y="390" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-5" value="UpdateRequest" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="710" y="390" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-6" value="RequestForm" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="490" y="310" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q5wealtQhhNW9CDUzMsv-7" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Dependencies:&amp;nbsp;&lt;/li&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;selected citizen&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;current bureau&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Call API: prepareNewRequest&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="BLZYVFECelHP1KXSoa6m-1">
+          <mxGeometry x="220" y="510" width="220" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
