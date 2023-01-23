@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T08:50:02.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="C6poo2kJPgvqa2EBDz4R" version="20.8.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-23T08:54:14.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="9ibCthXgmrxQhfpUWgmW" version="20.8.10" type="github" pages="4">
   <diagram id="2X_wGrylG4dyZhUMqHs4" name="Context">
-    <mxGraphModel dx="1235" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Legalization flow">
-    <mxGraphModel dx="1050" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -374,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xGix6msMJF-utj6TfpB5" name="Signatory flow">
-    <mxGraphModel dx="1050" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,13 +490,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JeY0eL_KPAKsOtufcdT8" name="Model (conceptual)">
-    <mxGraphModel dx="1050" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KvM211mBoRMHGB1YF5-A-1" value="1..*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=-0.133;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KvM211mBoRMHGB1YF5-A-5" target="KvM211mBoRMHGB1YF5-A-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="848" y="710" as="targetPoint" />
+            <mxPoint x="894" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvM211mBoRMHGB1YF5-A-4" target="KvM211mBoRMHGB1YF5-A-19" edge="1">
@@ -506,7 +506,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-4" value="Dossier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="244" y="613" width="140" height="60" as="geometry" />
+          <mxGeometry x="290" y="436" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-5" value="Number&lt;br&gt;Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-4" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -515,54 +515,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-7" value="LegalizationRequest" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="542" y="632" width="140" height="90" as="geometry" />
+          <mxGeometry x="588" y="404" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-8" value="DocumentToLegalize&lt;br&gt;StickerNumber&lt;br&gt;Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-7" vertex="1">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-9" value="Legalization" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="785" y="641" width="140" height="72" as="geometry" />
+          <mxGeometry x="860" y="413" width="140" height="72" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-10" value="Number&lt;br&gt;SignedDocument" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-9" vertex="1">
           <mxGeometry y="30" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-11" value="1..*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvM211mBoRMHGB1YF5-A-13" target="KvM211mBoRMHGB1YF5-A-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.2606" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvM211mBoRMHGB1YF5-A-13" target="KvM211mBoRMHGB1YF5-A-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gt4Z2pxuo5d9MpjmNFWz-2" value="1..*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="KvM211mBoRMHGB1YF5-A-13" target="gt4Z2pxuo5d9MpjmNFWz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-13" value="Signatory" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="542" y="771" width="140" height="96" as="geometry" />
+          <mxGeometry x="591" y="562" width="140" height="96" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-14" value="Name&lt;br&gt;Status&lt;br&gt;ActiveFrom&lt;br&gt;ActiveUntil" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-13" vertex="1">
           <mxGeometry y="30" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-15" value="Signature" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757" y="841.5" width="140" height="60" as="geometry" />
+          <mxGeometry x="480" y="695" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-16" value="1..*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvM211mBoRMHGB1YF5-A-14" target="KvM211mBoRMHGB1YF5-A-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-17" value="Seal" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757" y="753" width="140" height="60" as="geometry" />
+          <mxGeometry x="741" y="695" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvM211mBoRMHGB1YF5-A-8" target="KvM211mBoRMHGB1YF5-A-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="592" y="747" />
-              <mxPoint x="612" y="747" />
+              <mxPoint x="638" y="570" />
+              <mxPoint x="658" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-19" value="Payment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="158" y="787" width="140" height="85" as="geometry" />
+          <mxGeometry x="31" y="423.5" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Price&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Status&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PaymentMode&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="KvM211mBoRMHGB1YF5-A-19" vertex="1">
           <mxGeometry y="30" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-21" value="Organization" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="824" width="140" height="95" as="geometry" />
+          <mxGeometry x="290" y="562" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-22" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-21" vertex="1">
           <mxGeometry y="30" width="140" height="23" as="geometry" />
@@ -572,6 +577,9 @@
         </mxCell>
         <mxCell id="KvM211mBoRMHGB1YF5-A-24" value="ActiveUntil" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KvM211mBoRMHGB1YF5-A-21" vertex="1">
           <mxGeometry y="77" width="140" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gt4Z2pxuo5d9MpjmNFWz-1" value="Certificate" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" y="764" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
